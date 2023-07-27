@@ -40,7 +40,7 @@ For more details, see the [Fitbit API README](https://github.com/MatthewT0/Smart
 
 ### Garmin Manual
 The Garmin Manual directory contains scripts for manually modifying Garmin activity fit files.  
-For more details, see the [Garmin ADB README](https://github.com/MatthewT0/Smartwatch-Modification/tree/main/Garmin_Manual/Garmin).
+For more details, see the [Garmin ADB README](https://github.com/MatthewT0/Smartwatch-Modification/tree/main/Garmin_Manual).
 
 
 ## Current Project Status
