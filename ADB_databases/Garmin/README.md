@@ -21,8 +21,7 @@ pip install json
 ```
 
 ## Output
-Multiple csv files will be outputed to the backwards, original, and processed directories. These can be used for documentation purposes. The csv's in backwards are numbered by index of activity. Therefore, there may be a lot of these files.  
+Multiple csv files will be outputted to the backwards, original, and processed directories. These can be used for documentation purposes. The csv's in backwards are numbered by index of activity. Therefore, there may be a lot of these files.  
 **Note**: These csv outputs still need to be cleaned up. This will be fixed in a future upload.  
 
 The modified gcm_cache database will appear in the same directory as main.py.
-

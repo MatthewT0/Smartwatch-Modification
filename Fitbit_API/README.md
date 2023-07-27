@@ -1,7 +1,6 @@
 # Fitbit API Modifier
 This directory contains scripts to view, modify, and delete Fitbit API activities and information. 
 
-
 ## Scripts
 - main.py
 - fitbit_api.py
@@ -10,7 +9,6 @@ This directory contains scripts to view, modify, and delete Fitbit API activitie
 ```shell
 pip install requests_oauthlib
 ```
-
 ## Setup
 Make sure to fill in the config file with your information and do not upload or share this!
 
@@ -26,7 +24,6 @@ It is currently implemented to allow for:
 - delete_activity - delete a specified activity. Specified in interactive terminal.
 - delete_sleep - delete a specified sleep file. Specified in interactive terminal.
 - create_activity - create a new activity through interactive terminal.
-
 
 ## Output
 Depending on what you choose a JSON or TCX file will appear in the same directory as the main.py. This will contain the information of the output. If you choose one of the deletes this will contain information based on whether it was successful or not.  
