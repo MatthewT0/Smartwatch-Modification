@@ -36,7 +36,7 @@ For more details, see the [Fitbit ADB README](https://github.com/MatthewT0/Smart
 
 ### Fitbit API
 The API directory contains scripts for interacting with the Fitbit API. These scripts allow you to view, modify, and delete activities from the Fitbit using the API.  
-For more details, see the [Fitbit API README](https://github.com/MatthewT0/Smartwatch-Modification/tree/main/Fitbit_API/Fitbit).
+For more details, see the [Fitbit API README](https://github.com/MatthewT0/Smartwatch-Modification/tree/main/Fitbit_API).
 
 ### Garmin Manual
 The Garmin Manual directory contains scripts for manually modifying Garmin activity fit files.  
@@ -45,7 +45,7 @@ For more details, see the [Garmin ADB README](https://github.com/MatthewT0/Smart
 
 ## Current Project Status
 **NOTE**: This project is still in the testing phase. More updates will be coming soon to add more functionality, improve error handling, fix style issues, and more. Please feel free to report any issues or contribute to the project.  
-This project is under MIT licensing, see [LICENSE.md](LICENSE.md).
+This project is under MIT licensing, see [LICENSE](LICENSE).
 
 ## Latest Updates
 ### Version 0.1.0 - 27-07-2023
